@@ -3,8 +3,6 @@
 
 Web4Hub is an easy Event Management Solution to Manage different organizer profile that you have created for different types of events. This repository contains the source code of the Web4Hub website.
 
-Site url : https://web4hub.ml/
-
 ## Table of Contents
 
 - [What is Web4Hub?](#what-is-web4hub)
@@ -43,11 +41,11 @@ To be able to launch Web4Hub, you must meet the following requirements:
 
 1. Clone the repository
 ```
-git clone https://github.com/Heisenberg3562/Laravel-Web4Hub.git
+git clone https://github.com/aanam0105/Event-Management-Laravel.git
 ```
 2. Switch to the working directory
 ```
-cd Laravel-Web4Hub/
+cd Event-Management-Laravel/
 ```
 3. Install the composer dependencies
 ```
@@ -75,7 +73,7 @@ php artisan serve
 
 ## Bugs and Feedback
 
-For bugs, questions and discussions, please use the GitHub [Issues](https://github.com/Heisenberg3562/Laravel-Web4Hub/issues) .
+For bugs, questions and discussions, please use the GitHub [Issues](https://github.com/aanam0105/Event-Management-Laravel/issues) .
 
 ## License
 
